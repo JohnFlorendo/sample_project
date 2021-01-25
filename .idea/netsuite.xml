@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AccountsInformationState">
+    <option name="accountsInformation">
+      <Toplevel>
+        <option name="molecules">
+          <Molecules>
+            <option name="molecule">
+              <array>
+                <Molecule>
+                  <option name="UUID" value="c9bfbb58-a5dc-4f86-a4ec-fac3e7bdc377" />
+                  <option name="description" value="Production" />
+                  <option name="url" value="system.netsuite.com" />
+                </Molecule>
+              </array>
+            </option>
+          </Molecules>
+        </option>
+        <option name="sdkSettings">
+          <SdkSettings>
+            <option name="moleculeSettings">
+              <MoleculeSettings>
+                <option name="moleculeSetting">
+                  <array>
+                    <MoleculeSetting>
+                      <option name="accounts">
+                        <Accounts>
+                          <option name="account">
+                            <array>
+                              <Account>
+                                <option name="companies">
+                                  <Companies>
+                                    <option name="company">
+                                      <array>
+                                        <Company>
+                                          <option name="UUID" value="75827e37-4f3b-4b98-b568-818aa7f1218a" />
+                                          <option name="accountType" value="DEVELOPMENT" />
+                                          <option name="id" value="1563405" />
+                                          <option name="name" value="LEACC Consulting Dev" />
+                                          <option name="restDomain" value="1563405.restlets.api.netsuite.com" />
+                                          <option name="roles">
+                                            <Roles>
+                                              <option name="role">
+                                                <array>
+                                                  <Role>
+                                                    <option name="name" value="Administrator" />
+                                                    <option name="nkey" value="3" />
+                                                    <option name="tokenId" value="43b521d632b73ac936b9039140e544501322c29669d0c7454e5d2e6a7585458e5df8f728d2f05db70a063ff772d6b1aec4414fe8d0d71ae49f9f1edbb7de127aec678344b7bcfa233db0ddbd54ede9e0" />
+                                                    <option name="tokenSecret" value="01a300a705439d1680633a819537ffcdfd12c44876483f54cdcdaabba0498ed507732b9b86f47c36b504b5ffd1b938b96d6795b62856f9cf3ec17696d23eca60ec678344b7bcfa233db0ddbd54ede9e0" />
+                                                  </Role>
+                                                </array>
+                                              </option>
+                                            </Roles>
+                                          </option>
+                                          <option name="systemDomain" value="1563405.app.netsuite.com" />
+                                          <option name="webservicesDomain" value="1563405.suitetalk.api.netsuite.com" />
+                                        </Company>
+                                      </array>
+                                    </option>
+                                  </Companies>
+                                </option>
+                                <option name="email" value="johnflorendo29@gmail.com" />
+                                <option name="password" value="71b8727d4d7e034f2689878b186d186a" />
+                              </Account>
+                            </array>
+                          </option>
+                        </Accounts>
+                      </option>
+                      <option name="molecule">
+                        <Molecule>
+                          <option name="UUID" value="c9bfbb58-a5dc-4f86-a4ec-fac3e7bdc377" />
+                        </Molecule>
+                      </option>
+                    </MoleculeSetting>
+                  </array>
+                </option>
+              </MoleculeSettings>
+            </option>
+          </SdkSettings>
+        </option>
+      </Toplevel>
+    </option>
+  </component>
+</project>
