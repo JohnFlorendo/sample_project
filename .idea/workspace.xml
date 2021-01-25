@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="087a1019-b4c2-4298-b20f-cc03c91b99a9" name="Default Changelist" comment="" />
+    <list default="true" id="087a1019-b4c2-4298-b20f-cc03c91b99a9" name="Default Changelist" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileCabinet/SuiteScripts/Client/CT_CS_SAMPLE_SCRIPT.js" beforeDir="false" afterPath="$PROJECT_DIR$/FileCabinet/SuiteScripts/Client/CT_CS_SAMPLE_SCRIPT.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.netsuite.ide.webstorm.configurable.projectsettings.ProjectSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.netsuite.ide.webstorm.configurable.accountmanagement.AccountManagementConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,22 +38,83 @@
       <updated>1611550923390</updated>
       <workItem from="1611550924434" duration="576000" />
       <workItem from="1611551513364" duration="81000" />
-      <workItem from="1611551598275" duration="563000" />
+      <workItem from="1611551598275" duration="1294000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1611552439023</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611552439023</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="562" y="260" key="#Custom_Plugin_Repositories" timestamp="1611551333492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="562" y="260" key="#Custom_Plugin_Repositories/0.0.1366.728@0.0.1366.728" timestamp="1611551333492" />
-    <state x="342" y="18" key="SettingsEditor" timestamp="1611552161317">
+    <state x="424" y="66" key="RollbackChangesDialog" timestamp="1611552351362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="342" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611552161317" />
+    <state x="424" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1611552351362" />
+    <state x="342" y="18" key="SettingsEditor" timestamp="1611552802503">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="342" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611552802503" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1611552882550">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611552882550" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

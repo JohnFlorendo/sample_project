@@ -20,7 +20,7 @@ function(record, search) {
      * @since 2015.2
      */
     function pageInit(scriptContext) {
-
+alert('Hello!');
     }
 
     /**
